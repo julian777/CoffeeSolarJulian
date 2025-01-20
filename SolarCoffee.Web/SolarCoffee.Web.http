@@ -1,0 +1,6 @@
+@SolarCoffee.Web_HostAddress = http://localhost:5037
+
+GET {{SolarCoffee.Web_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
